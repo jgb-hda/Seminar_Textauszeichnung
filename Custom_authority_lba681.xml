@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Custom Authority File</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <p><listPerson>
+            <person xml:id="lba681_001">
+                  <persName>
+                     />Elisabeth</persName><note>Absenderin/Empfängerin</note>
+               </person>
+            <person xml:id="lba681_002">
+                  <persName>Gerhard</persName><note>Absender/Empfänger</note>
+               </person>
+            <person xml:id="lba681_003"><persName>Mutti</persName><note>Wohl die Mutter von Elisabeth</note></person>
+            <person xml:id="lba681_005"><persName>Edeltrude</persName><note>Wohl Bekannte (?) von Elisabeth und Gerhard</note></person>
+            </listPerson>
+            <listPlace>
+               <place xml:id="gnd_4013498-2">
+                  <placeName>Die graue Stadt</placeName><note>Gemeint ist wohl Eckernförde</note>
+               </place>
+            </listPlace>
+            <listOrg>
+               <org/>
+            </listOrg></p>
+      </body>
+   </text>
+</TEI>
