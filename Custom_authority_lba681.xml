@@ -24,14 +24,14 @@
                      Elisabeth<note>Absenderin/Empfängerin</note></persName>
                </person>
             <person xml:id="lba681_002">
-                  <persName>Gerhard</persName><note>Absender/Empfänger</note>
+                  <persName>Gerhard<note>Absender/Empfänger</note></persName>
                </person>
-            <person xml:id="lba681_003"><persName>Mutti</persName><note>Wohl die Mutter von Elisabeth</note></person>
-            <person xml:id="lba681_005"><persName>Edeltrude</persName><note>Wohl Bekannte (?) von Elisabeth und Gerhard</note></person>
+            <person xml:id="lba681_003"><persName>Mutti<note>Wohl die Mutter von Elisabeth</note></person></persName>
+            <person xml:id="lba681_005"><persName>Edeltrude<note>Wohl Bekannte (?) von Elisabeth und Gerhard</note></persName></person>
             </listPerson>
             <listPlace>
                <place xml:id="gnd_4013498-2">
-                  <placeName>Die graue Stadt</placeName><note>Gemeint ist wohl Eckernförde</note>
+                  <placeName>Die graue Stadt<note>Gemeint ist wohl Eckernförde</note></placeName>
                </place>
             </listPlace>
             <listOrg>
