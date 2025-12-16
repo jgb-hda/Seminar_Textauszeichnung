@@ -21,7 +21,7 @@
          <p><listPerson>
             <person xml:id="lba681_001">
                   <persName>
-                     />Elisabeth</persName><note>Absenderin/Empfängerin</note>
+                     Elisabeth<note>Absenderin/Empfängerin</note></persName>
                </person>
             <person xml:id="lba681_002">
                   <persName>Gerhard</persName><note>Absender/Empfänger</note>
